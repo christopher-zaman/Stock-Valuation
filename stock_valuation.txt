@@ -1,0 +1,8 @@
+API: Application Programming InterfaceRESTful API: HTTP request. 
+http://ichart.finance.yahoo.com/table.csv?s=AAPL
+
+csv: comma separated text file 
+xml: eXtensible markup language<Employee> <Name>Chris</Name> <SSNum>555-525-5556</SSNum> <Salary>$10</Salary></Employee>
+json: javascript object notationEmployee:{Name:"Ali",SSNum:"555-525-5556", Salary:"$10"}
+
+urllib:  a library that woudl allow us to connect to remote websites on the Internet. 
